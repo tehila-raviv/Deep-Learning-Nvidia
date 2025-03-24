@@ -14,7 +14,7 @@ Leveraging pre-trained models and transfer learning to train models efficiently.
 
 Exploring Natural Language Processing (NLP) with BERT for text-based tasks.
 
-📌 Topics Covered
+📌 Topics Covered: 
 ✔️ PyTorch fundamentals
 ✔️ Image classification (MNIST, American Sign Language dataset)
 ✔️ Building and training CNNs
@@ -23,9 +23,7 @@ Exploring Natural Language Processing (NLP) with BERT for text-based tasks.
 ✔️ Transfer learning & fine-tuning
 ✔️ NLP with BERT for text processing
 
-📂 Course Projects
-Each folder in this repository corresponds to a course module:
-
+📂 Course Projects:
 1️⃣ Image Classification – Training models on MNIST & ASL datasets
 2️⃣ Convolutional Neural Networks – Designing CNN architectures
 3️⃣ Data Augmentation – Improving model accuracy through augmentation
